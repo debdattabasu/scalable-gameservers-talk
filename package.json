@@ -1,0 +1,16 @@
+{
+  "name": "scalable-game-servers-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.11.1",
+    "shortid": "^2.2.6",
+    "ws": "^1.1.1"
+  }
+}
