@@ -1,12 +1,8 @@
 {
   "name": "scalable-game-servers-talk",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "description": "source code for talk titled Building Scalable Game Servers using Microservices at Nasscom GDC 2016",
+  "author": "Debdatta Basu",
   "license": "ISC",
   "dependencies": {
     "coffee-script": "^1.11.1",
